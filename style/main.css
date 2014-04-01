@@ -332,14 +332,14 @@ hr {
     background: #f2b179; }
     @media screen and (max-width: 520px) {
       .tile.tile-8 .tile-inner {
-        font-size: 7px; } }
+        font-size: 5px; } }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     font-size: 20px;
     background: #f59563; }
     @media screen and (max-width: 520px) {
       .tile.tile-16 .tile-inner {
-        font-size: 7px; } }
+        font-size: 5px; } }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     font-size: 30px;
